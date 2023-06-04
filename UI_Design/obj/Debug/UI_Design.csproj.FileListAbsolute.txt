@@ -1,0 +1,286 @@
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\UI_Design.exe.config
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\UI_Design.exe
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\UI_Design.pdb
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.AssemblyReference.cache
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.Properties.Resources.resources
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.GenerateResource.cache
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.exe.licenses
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.CoreCompileInputs.cache
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.CopyComplete
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.exe
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.pdb
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.Splash_Screen.resources
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\AForge.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\AForge.Video.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\zxing.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\zxing.presentation.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\AForge.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\AForge.Video.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\zxing.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\zxing.presentation.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\IronBarCode.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Buffers.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Drawing.Common.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Memory.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\IronBarCode.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Buffers.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Drawing.Common.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Memory.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.MainUI.resources
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.Admin_Login.resources
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.Student_Login.resources
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.Add_Student.resources
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\UI_Design.exe.config
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\UI_Design.exe
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\UI_Design.pdb
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\AForge.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\AForge.Video.DirectShow.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\AForge.Video.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\IronBarCode.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\IronSoftware.Drawing.Common.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\SixLabors.ImageSharp.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Buffers.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Drawing.Common.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Memory.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Numerics.Vectors.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\zxing.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\zxing.presentation.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\AForge.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\AForge.Video.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\AForge.Video.DirectShow.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\BitMiracle.LibTiff.NET.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\IronBarCode.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\IronSoftware.Drawing.Common.pdb
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\SixLabors.ImageSharp.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Buffers.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Drawing.Common.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Memory.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Numerics.Vectors.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\zxing.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\zxing.presentation.xml
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.AssemblyReference.cache
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.SuggestedBindingRedirects.cache
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.Add_Student.resources
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.Admin_Login.resources
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.Student_Login.resources
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.MainUI.resources
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.Splash_Screen.resources
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.Properties.Resources.resources
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.GenerateResource.cache
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.exe.licenses
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.CoreCompileInputs.cache
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.CopyComplete
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.exe
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.pdb
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\3rd Semester\OOPS\UI_Design\UI_Design\UI_Design\obj\Debug\UI_Design.Session.resources
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.Session.resources
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.MainUI2.resources
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\obj\Debug\UI_Design.Login.resources
+C:\Users\Murtaza\source\repos\UI_Design\UI_Design\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\UI_Design.exe.config
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\UI_Design.exe
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\UI_Design.pdb
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\AForge.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\AForge.Video.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\IronBarCode.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Buffers.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Drawing.Common.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Memory.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\zxing.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\zxing.presentation.dll
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\AForge.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\AForge.Video.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\IronBarCode.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Buffers.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Drawing.Common.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Memory.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\zxing.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\bin\Debug\zxing.presentation.xml
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.AssemblyReference.cache
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.Add_Student.resources
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.Admin_Login.resources
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.Login.resources
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.MainUI2.resources
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.Session.resources
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.Student_Login.resources
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.MainUI.resources
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.Splash_Screen.resources
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.Properties.Resources.resources
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.GenerateResource.cache
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.exe.licenses
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.csproj.CopyComplete
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.exe
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.pdb
+C:\Users\ahmad\Downloads\what' App\UI_Design\UI_Design\obj\Debug\UI_Design.Session_Timer.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\UI_Design.exe.config
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\UI_Design.exe
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\UI_Design.pdb
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\AForge.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\AForge.Video.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\IronBarCode.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Buffers.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Drawing.Common.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Memory.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\zxing.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\zxing.presentation.dll
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\AForge.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\AForge.Video.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\IronBarCode.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Buffers.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Drawing.Common.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Memory.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\zxing.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\bin\Debug\zxing.presentation.xml
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.csproj.AssemblyReference.cache
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Add_Student.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Admin_Login.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Login.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.MainUI2.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Session_Timer.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Session.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Std_History.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Student_Login.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.MainUI.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Splash_Screen.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Properties.Resources.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.csproj.GenerateResource.cache
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.exe.licenses
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.csproj.CopyComplete
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.exe
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.pdb
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Profile.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Ban_Student.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Ban_Reason.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Fine_Section.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Record.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Fine_Reason.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Fine_Slip.resources
+C:\Users\ahmad\Downloads\what' App\Final\UI_Design\obj\Debug\UI_Design.Manage_Devices.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\UI_Design.exe.config
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\UI_Design.exe
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\UI_Design.pdb
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\AForge.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\AForge.Video.DirectShow.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\AForge.Video.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\IronBarCode.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\IronSoftware.Drawing.Common.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\SixLabors.ImageSharp.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Buffers.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Drawing.Common.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Memory.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Numerics.Vectors.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\zxing.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\zxing.presentation.dll
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\AForge.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\AForge.Video.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\AForge.Video.DirectShow.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\BitMiracle.LibTiff.NET.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\IronBarCode.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\IronSoftware.Drawing.Common.pdb
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\SixLabors.ImageSharp.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Buffers.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Drawing.Common.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Memory.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Numerics.Vectors.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\zxing.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\bin\Debug\zxing.presentation.xml
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.csproj.AssemblyReference.cache
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.csproj.SuggestedBindingRedirects.cache
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Add_Student.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Admin_Login.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Ban_Reason.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Ban_Student.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Fine_Reason.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Fine_Section.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Fine_Slip.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Login.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.MainUI2.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Manage_Devices.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Profile.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Record.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Session_Timer.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Session.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Std_History.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Student_Login.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.MainUI.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Splash_Screen.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.Properties.Resources.resources
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.csproj.GenerateResource.cache
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.exe.licenses
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.csproj.CoreCompileInputs.cache
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.csproj.CopyComplete
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.exe
+D:\3rd Semester\Calculus\Final\Final\UI_Design\obj\Debug\UI_Design.pdb
